@@ -1,0 +1,19 @@
+site_name: osint-harvester
+site_description: OSINT collection toolkit
+site_url: https://Kubenew.github.io/Osint-Harvester
+repo_name: Kubenew/Osint-Harvester
+repo_url: https://github.com/Kubenew/Osint-Harvester
+
+theme:
+  name: material
+  palette:
+    primary: red
+    accent: light red
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+
+plugins:
+  - search
