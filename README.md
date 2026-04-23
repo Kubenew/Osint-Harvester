@@ -4,6 +4,7 @@
 [![Python Versions](https://img.shields.io/pypi/pyversions/osint-harvester)](https://pypi.org/project/osint-harvester/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tests](https://github.com/Kubenew/Osint-Harvester/actions/workflows/ci.yml/badge.svg)](https://github.com/Kubenew/Osint-Harvester/actions/workflows/ci.yml)
+[![Downloads](https://pepy.tech/badge/osint-harvester)](https://pepy.tech/project/osint-harvester)
 
 `osint-harvester` is a lightweight OSINT toolkit that collects and normalizes intelligence from multiple sources.
 
